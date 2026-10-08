@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋, I'm Beatrice Hahn
 
 <!--
 **beatricehahn/beatricehahn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on studying for CompTIA A+ and Microsoft Azure Fundamentals
+- 🌱 I’m currently learning IT Support as an NPower Trainee
+- ⚡ Fun fact: I love skateboarding, hiking + finding wildlife, and watching films
